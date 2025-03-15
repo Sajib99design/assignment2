@@ -702,6 +702,13 @@
 			}
 		}
 	}
+
+
+	.room-title {
+    h4 {
+        font: 700 18px inter;
+    }
+}
 }
 
 @media screen and (max-width:450px) {
